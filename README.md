@@ -1,22 +1,14 @@
-# Pong Game in Python with Turtle
+# Snake Game in Python with Turtle
 
-A classic Pong game implemented in Python using the Turtle graphics library.
+A simple snake game built in Python using the Turtle graphics library.
 
 ## How to Play
 
-1. Clone or download the repository.
-2. Run the main file to start the game.
+1. Clone the repository or download the files.
+2. Execute the main file.
 
 ## Controls
 
-- Use the following keys to control the paddles:
-  - **Right Paddle**: Up Arrow (Up) and Down Arrow (Down)
-  - **Left Paddle**: "W" (Up) and "S" (Down)
+- Use the arrow keys on your keyboard to control the snake.
 
-## Gameplay
-
-- The objective is to bounce the ball past your opponent's paddle.
-
-![image](https://github.com/user-attachments/assets/c70bbb9c-4c5f-467b-957d-a27d178c5d3e)
-
-
+![image](https://github.com/lohhan/snake_game/assets/110141875/cf8b62dd-7c03-4012-9723-9f226afc726a)
