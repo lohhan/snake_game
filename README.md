@@ -12,4 +12,3 @@ A simple snake game built in Python using the Turtle graphics library.
 - Use the arrow keys on your keyboard to control the snake.
 
 ![image](https://github.com/lohhan/snake_game/assets/110141875/cf8b62dd-7c03-4012-9723-9f226afc726a)
-
